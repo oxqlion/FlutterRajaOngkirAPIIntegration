@@ -1,0 +1,1 @@
+part 'service_card.dart';
